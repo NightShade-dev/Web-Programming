@@ -1,0 +1,184 @@
+body{
+  background-color: rgb(237,237,203);
+}
+.logo{
+  background-color: red;
+  color: yellowgreen;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+.nav {
+  overflow: hidden;
+  background-color: #333;
+}
+.nav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+/*.nav a:visited {
+  color: blue;
+}*/
+.nav a:hover {
+  background:rgb(255,151,73);
+  color: darkblue;
+}
+
+.nav a:active {
+  background: darkblue;
+  color: rgb(255,151,73);
+}
+.nave {
+  overflow: hidden;
+  background-color: #333;
+}
+.nave a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  margin-right: 40px;
+  margin-left: 40px;
+  margin-bottom: 10px;
+}
+
+/*.nave a:visited {
+  color: blue;
+}*/
+
+.nave a:hover {
+  background:rgb(255,151,73);
+  color: darkblue;
+}
+
+.nave a:active {
+  background: darkblue;
+  color: rgb(255,151,73);
+}
+.LeftNav {
+  overflow: hidden;
+  background-color: #333;
+}
+.LeftNav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  margin-right: 5px;
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+
+/*.LeftNav a:visited {
+  color: blue;
+}*/
+
+.LeftNav a:hover {
+  background:rgb(255,151,73);
+  color: darkblue;
+}
+
+.LeftNav a:active {
+  background: darkblue;
+  color: rgb(255,151,73);
+}
+.AdminLogin{
+
+}
+.AdminWelcomeImage{
+  height:500px; 
+  width:1200px; 
+  background-color:#f8f1e4; 
+  border:2px solid red; 
+  box-shadow:4px 1px 20px black;
+  margin-left: 150px;
+}
+.AddUserForm{
+  height:300px; 
+  width:350px; 
+  margin:auto; 
+  background: #EEAECA; 
+  box-shadow:4px 1px 20px black;
+}
+.UpdateUser{
+    height:300px; 
+  width:350px; 
+  margin:auto; 
+  background: #EEAECA; 
+  box-shadow:4px 1px 20px black;
+}
+.DeleteUser{
+    height:300px; 
+  width:350px; 
+  margin:auto; 
+  background: #EEAECA; 
+  box-shadow:4px 1px 20px black;
+}
+.AddCamp{
+  height:300px; 
+  width:350px; 
+  margin:auto; 
+  background: #EEAECA; 
+  box-shadow:4px 1px 20px black;
+}
+.DeleteCamp{
+  height:300px; 
+  width:350px; 
+  margin:auto; 
+  background: #EEAECA; 
+  box-shadow:4px 1px 20px black;
+}
+.UpdateCamp{
+  height:300px; 
+  width:350px; 
+  margin:auto; 
+  background: #EEAECA; 
+  box-shadow:4px 1px 20px black;
+}
+.AddBloodGroup{
+    height:300px; 
+  width:350px; 
+  margin:auto; 
+  background: #EEAECA; 
+  box-shadow:4px 1px 20px black;
+}
+.UpdateBloodGroup{
+    height:300px; 
+  width:350px; 
+  margin:auto; 
+  background: #EEAECA; 
+  box-shadow:4px 1px 20px black;
+}
+.DeleteBloodGroup{
+    height:300px; 
+  width:350px; 
+  margin:auto; 
+  background: #EEAECA; 
+  box-shadow:4px 1px 20px black;
+}
+.ViewBloodGroup{
+    height:300px; 
+  width:350px; 
+  margin:auto; 
+  background: #EEAECA; 
+  box-shadow:4px 1px 20px black;
+}
+.ViewCamps{
+      height:300px; 
+  width:350px; 
+  margin:auto; 
+  background: #EEAECA; 
+  box-shadow:4px 1px 20px black;
+}
