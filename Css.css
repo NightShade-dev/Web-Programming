@@ -1,0 +1,108 @@
+h4{
+  color: darkred;
+  margin: 20px;
+  padding: 20px;
+}
+h2{
+    color: rgb(0,0,150);
+  margin: 20px;
+  padding: 20px;
+}
+body{
+  background-color: rgb(237,237,203);
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+/*.topnav a:visited {
+  color: blue;
+}*/
+
+.topnav a:hover {
+  background:rgb(255,151,73);
+  color: darkblue;
+}
+
+.topnav a:active {
+  background: darkblue;
+  color: rgb(255,151,73);
+}
+.DonateBloodAgain{
+  background-color: #B4B4B4;
+  color: rgb(0,0,186);
+  margin: 20px;
+  padding: 20px;
+}
+.logo{
+  background-color: red;
+  color: yellowgreen;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+.blog_posts{
+    background-color: rgb(255,186,0);
+  color: darkblue;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+.RegistrationForm{
+  height:500px; 
+  width:320px; 
+  margin:auto; 
+  background: #EEAECA; 
+  box-shadow:4px 1px 20px black;"
+}
+.SendRequest{
+  height:500px; 
+  width:290px; 
+  margin:auto; 
+  background: #EEAECA; 
+  box-shadow: 4px 1px 20px black;
+}
+.ViewRequest{
+  height:300px; 
+  width:1000px; 
+  margin:auto; 
+  margin-top:50px; 
+  margin-bottom:50px; 
+  background-color:#f8f1e4; 
+  border:2px solid red; 
+  box-shadow:4px 1px 20px black;
+}
+.login{
+  height:315px; 
+  width:310px; 
+  margin:auto; 
+  background: #EEAECA; 
+  box-shadow:4px 1px 20px black;
+}
+.search{
+  height:200px; 
+  width:300px; 
+  margin:auto; 
+  background: #EEAECA; 
+  box-shadow:4px 1px 20px black;
+}
+.ContactUs{
+  height:500px; 
+  width:270px; 
+  margin:auto; 
+  background: #EEAECA; 
+  box-shadow:4px 1px 20px black;
+}
