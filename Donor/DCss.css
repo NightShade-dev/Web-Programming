@@ -1,0 +1,98 @@
+body{
+  background-color: rgb(237,237,203);
+}.Topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+.Topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+/*.Topnav a:visited {
+  color: blue;
+}*/
+
+.Topnav a:hover {
+  background:rgb(255,151,73);
+  color: darkblue;
+}
+
+.Topnav a:active {
+  background: darkblue;
+  color: rgb(255,151,73);
+}
+.logo{
+  background-color: red;
+  color: yellowgreen;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+.BloodDonated{
+height:400px; 
+width:600px; 
+margin:auto; 
+margin-top:50px; 
+margin-bottom:50px; 
+background-color:#f8f1e4; 
+border:2px solid red; 
+box-shadow:4px 1px 20px black;
+}
+.ChangePassword{
+  height:300px; 
+  width:600px; 
+  margin:auto; 
+  margin-top:50px; 
+  margin-bottom:50px; 
+  background-color:#f8f1e4; 
+  border:2px solid red; 
+  box-shadow:4px 1px 20px black;
+}
+.IndexPage{
+  height:300px; 
+  width:700px; 
+  margin:auto; 
+  margin-top:50px; 
+  margin-bottom:50px; 
+  background-color:#f8f1e4; 
+  border:2px solid red; 
+  box-shadow:4px 1px 20px black;
+}
+.UpdateProfile{height:400px; 
+  width:700px; 
+  margin:auto; 
+  margin-top:50px; 
+  margin-bottom:50px; 
+  background-color:#f8f1e4; 
+  border:2px solid red; 
+  box-shadow:4px 1px 20px black;
+  
+}
+.ViewDonation{
+  height:300px; 
+  width:800px; 
+  margin:auto; 
+  margin-top:50px; 
+  margin-bottom:50px; 
+  background-color:#f8f1e4; 
+  border:2px solid red; 
+  box-shadow:4px 1px 20px black;
+}
+.{
+  height:300px; 
+  width:1000px; 
+  margin:auto; 
+  margin-top:50px; 
+  margin-bottom:50px; 
+  background-color:#f8f1e4; 
+  border:2px solid red; 
+  box-shadow:4px 1px 20px black;
+}
